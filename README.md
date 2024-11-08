@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi I`m Evgeny 👋
+
+## ⚙️ My favorite tools and technologies
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+</div>
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/40397740/187086679-84d7cd96-4311-4454-b3c7-f44b47a2477c.svg)
 
 <!--
