@@ -1,5 +1,4 @@
 ## ⚙️ My favorite tools and technologies
-![My Skills](https://skillicons.dev/icons?i=)
 
 <p align="center">
   <a href="https://skillicons.dev">
