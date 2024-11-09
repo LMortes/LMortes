@@ -1,8 +1,6 @@
 ## ⚙️ My favorite tools and technologies
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <img src="https://skillicons.dev/icons?i=java, python, spring, hibernate, postgres, docker, redis, git, html, css" />
 </div>
 
 
