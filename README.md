@@ -1,6 +1,6 @@
 ## ⚙️ My favorite tools and technologies
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://skillicons.dev/icons?i=java, python, spring, hibernate, postgres, docker, redis, git, html, css" />
+  <img src="https://skillicons.dev/icons?i=java, py, spring, hibernate, postgres, docker, redis, git, html, css" />
 </div>
 
 
